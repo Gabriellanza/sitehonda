@@ -1,0 +1,142 @@
+.fundo{
+    background-color: #A00000;
+}
+.fundo2{
+    background-image: url(../imagens/back2.jpg);
+}
+.fundo1{
+    background-color: #EE5D60;
+}
+.cortopo{
+    background-color: black;
+}
+
+.txtverm{
+    color: red;
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+    
+
+    
+}
+.mensagem{
+    font-size: 20px; 
+    font-family: Courier New;
+    color: white;
+}
+.div1{
+    height: 250px;
+   
+}
+.alturadivimg{
+    height: 100px;
+}
+.alturadiv2{
+    height: 125px;
+}
+.fonte{
+    text-align: center;
+    font-family: arial;
+  
+}
+.fonte2{
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+   
+}
+.imgg{
+    height: 200px;
+    width: 200px;
+}
+.titulopg{
+    padding-top: 25px;
+    height: 100px;
+    
+}
+.public{
+    height: 150px;
+    
+}
+.rodape{
+    padding-bottom: 40px;
+    background-color: black;
+}
+.corcarrousel {
+    background-color: white;
+     
+}
+.CB650{
+    font-family: arial;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.textdestaque{
+     font-family: times new roman;
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.textinicio{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    
+}
+.textinicio2{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 80px;
+}
+a {
+    font-weight: bolder;
+    color: #B51B1A;
+}
+a:hover{
+    color: #FF0101;
+  
+}
+
+.branco{
+    background-color: white;
+}
+.preco{
+    font-family: calibri;
+    font-size: 35px;
+    color: red;
+    text-align: left;
+    font-weight: bold;
+    
+}
+.preco2{
+    font-family: calibri;
+    font-size: 25px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+
+.vermelho{
+    background-color: #A00000;
+}
+.pretoclaro{
+    background-color: #828387;
+}
+}
+.navv{
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 40px;
+   
+    
+}
